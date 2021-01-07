@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Boilerplate CRA project includes tailwind-css, and build:single command 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### `yarn build:single`
+Only output one JavaScript file
 
 ## Available Scripts
 
@@ -28,10 +31,6 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn build:single`
-
-Only output one JavaScript file
 
 ### `yarn eject`
 
